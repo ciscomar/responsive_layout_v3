@@ -306,8 +306,8 @@ body{
 
     header img{
  
-      width: 25%;
-      margin-right: 15%;
+      width: 30%;
+      margin-right: 13%;
       margin-top: -1em;
 
     }
@@ -317,11 +317,16 @@ body{
     }
 
     header p{
+      padding-top: 8%;
       text-align: left;
-      margin-top: 4em;
+      margin-top: 10%;
       font-size: 1.5em;
       line-height: 1.5em ;
   
+    }
+
+    .header{
+      margin-top: 10%;
     }
 
     p{
@@ -345,14 +350,17 @@ body{
     }
 
     #student{
-      
-      margin-top: 5%;
+      float: left;
+      margin-top: 0%;
       margin-bottom: 0;
       margin-left: 6%;
       font-size: 2em;
       text-align: left;
+      padding-right: 10%;
+     
 
     }
+
 
     
 
